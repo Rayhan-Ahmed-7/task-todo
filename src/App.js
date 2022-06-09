@@ -3,7 +3,7 @@ import TodoBoard from './Components/TodoBoard/TodoBoard';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App h-screen">
       <TodoBoard></TodoBoard>
     </div>
   );
